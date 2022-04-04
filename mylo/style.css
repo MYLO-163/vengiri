@@ -62,3 +62,8 @@ font-size: 1.3em;
     font-size: 1.1em;
     color: rgb(56, 1, 73);
 }
+
+.nav-item{
+    text-decoration: none;
+    color: rgb(56, 1, 73);
+}
