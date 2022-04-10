@@ -1,69 +1,63 @@
-* {
-    font-size: 20px;
-    font-family: 'Vollkorn SC', serif;
-}
-.page{
-    min-width: 600px;
-    min-height: 100vh;
-}
-.dad{
-    display:flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-}
-.container{
-    text-align: center;
-}
-.container .logo {
-    height: auto;
-    width: 200px;
-}
-.page-title {
-    border-top: solid 1px #3333;
-    border-bottom: solid 1px #3333;
-    text-align: center;
-    font-size: 2em;
-}
-.photo{
-    height: auto;
-    width: 300px;
-}
-.pice{
-    text-decoration: none;
-    color: black;
-}
-.description {
-    margin: 0;
-    padding: 0;
-}
-.price{
-    color: rgba(26, 25, 25, 0.637);
-}
-.dad1{
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-}
-.name-product{
-font-size: 1.3em;
-}
-.product-description{
-    font-size: 0.8em;
-}
-.production{
-    margin-left: 50px;
-}
-
-
-.footer-page{
-    border-top: solid 1px #3333;
-    border-bottom: solid 1px #3333;
-    text-align: center;
-    font-size: 1.1em;
-    color: rgb(56, 1, 73);
+* { 
+    font-size: 20px; 
+    font-family: 'Vollkorn SC', serif; 
+} 
+.page{ 
+    min-width: 600px; 
+    min-height: 100vh; 
+} 
+.dad{ 
+    display:flex; 
+    justify-content: space-evenly; 
+    flex-wrap: wrap; 
+} 
+.container{ 
+ display: flex; 
+ align-items: center; 
+    justify-content: space-evenly; 
+} 
+.container .logo { 
+    height: auto; 
+    max-width: 300px;
+} 
+.title-header a{ 
+  text-decoration: none; 
+ color: black; 
+  font-size: 1.5em; 
+} 
+.page-title { 
+    border-top: solid 1px #3333; 
+    border-bottom: solid 1px #3333; 
+    text-align: center; 
+    font-size: 2em; 
+} 
+.photo{ 
+    height: auto; 
+    width: 300px; 
+} 
+.pice{ 
+    text-decoration: none; 
+    color: black; 
+} 
+.description { 
+    margin: 0; 
+    padding: 0; 
+} 
+.price{ 
+    color: rgba(26, 25, 25, 0.637); 
+} 
+.dad1{ 
+    display: flex; 
+    justify-content: flex-start; 
+    flex-wrap: wrap; 
+} 
+.name-product{ 
+font-size: 1.3em; 
+} 
+.product-description{ 
+    font-size: 0.8em; 
+} 
+.production{ 
+    margin-left: 50px; 
 }
 
-.nav-item{
-    text-decoration: none;
-     color: rgb(56, 1, 73);
-}
