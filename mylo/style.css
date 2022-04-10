@@ -20,11 +20,12 @@
     height: auto; 
     max-width: 300px;
 } 
-.title-header a{ 
-  text-decoration: none; 
- color: black; 
-  font-size: 1.5em; 
+.title-header .a { 
+    text-decoration: none; 
+    color: black; 
+    font-size: 1.5em; 
 } 
+
 .page-title { 
     border-top: solid 1px #3333; 
     border-bottom: solid 1px #3333; 
