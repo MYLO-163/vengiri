@@ -20,7 +20,7 @@
     height: auto; 
     max-width: 300px;
 } 
-.title-header .a { 
+.title-header { 
     text-decoration: none; 
     color: black; 
     font-size: 1.5em; 
