@@ -25,17 +25,11 @@
     max-width: 300px;
 } 
 
-.container .title-header .a {
+.link-a {
     text-decoration: none;
     color: black;
     font-size: 100%;
 }
-
-/*.title-header .a {
-    text-decoration: none;
-    color: black;
-    font-size: 1.5em;
-}*/
 
 .page-title { 
     border-top: solid 1px #3333; 
