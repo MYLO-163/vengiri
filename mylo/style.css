@@ -79,9 +79,5 @@ font-size: 1.3em;
     color: black;  
 }
 .footer-page{
-    position: fixed; 
-    left: 0; bottom: 0; 
-    padding: 10px;
-    background: #39b54a; 
-    width: 100%; 
+    text-align: center; 
 }
