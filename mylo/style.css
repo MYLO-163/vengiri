@@ -73,6 +73,10 @@ font-size: 1.3em;
 .production{ 
     margin-left: 50px; 
 }
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
 .footer-page{
      width: 200px;
   height: 100px;
