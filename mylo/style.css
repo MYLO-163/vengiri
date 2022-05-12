@@ -79,8 +79,9 @@ font-size: 1.3em;
     color: black;  
 }
 .footer-page{
- max-width: 100px;
-  height: 100px;
-  margin: 0 auto;
-  background: green;
+    position: fixed; 
+    left: 0; bottom: 0; 
+    padding: 10px; /* Поля вокруг текста */
+    background: #39b54a; /* Цвет фона */
+    width: 100%; /* Ширина слоя */
 }
