@@ -78,3 +78,9 @@ font-size: 1.3em;
    text-decoration: none; 
     color: black;  
 }
+.footer-page{
+ max-width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  background: green;
+}
