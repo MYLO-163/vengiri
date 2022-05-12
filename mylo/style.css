@@ -81,7 +81,7 @@ font-size: 1.3em;
 .footer-page{
     position: fixed; 
     left: 0; bottom: 0; 
-    padding: 10px; /* Поля вокруг текста */
-    background: #39b54a; /* Цвет фона */
-    width: 100%; /* Ширина слоя */
+    padding: 10px;
+    background: #39b54a; 
+    width: 100%; 
 }
