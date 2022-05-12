@@ -73,4 +73,8 @@ font-size: 1.3em;
 .production{ 
     margin-left: 50px; 
 }
-
+.footer-page{
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+}
